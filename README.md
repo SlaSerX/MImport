@@ -1,8 +1,6 @@
 # MImport
 Ministra Portal VOD Mass import
 
-Ministra Portal VOD mass import
-
 For those that don’t want to manually add all those movies/series , we have a solution!
 
 Very easy , will automatically import all your movies!
@@ -20,14 +18,5 @@ For those still hesitate they can wait till we prepare script for self installin
 
 Support Ministra Portal Versions: 5.6.1, 5.6.6 ( For Now)
 
-ministra import
-ministra import
-ministra import
-ministra import
-Demo:
-
-
-
- 
 
 For More information please add me on Telegram: https://t.me/SlaSerX
