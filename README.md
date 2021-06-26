@@ -1,5 +1,9 @@
 # MImport
-Ministra Portal VOD Mass import
+
+<b>Buy IT:</b>
+https://slaserx.dev/shop/index.php?rp=/store/decoded
+
+<b>Ministra Portal VOD Mass import</b>
 
 For those that don’t want to manually add all those movies/series , we have a solution!
 
@@ -17,6 +21,11 @@ For those still hesitate they can wait till we prepare script for self installin
 * Sharing of any of the coding will resolve in banning your server and your script will stop working.
 
 Support Ministra Portal Versions: 5.6.1, 5.6.6 ( For Now)
+
+Demo:
+
+  [![Click to Watch](https://img.youtube.com/vi/X8aWbBNUlVE/0.jpg)](https://www.youtube.com/watch?v=X8aWbBNUlVE "Click to Watch")
+
 
 
 For More information please add me on Telegram: https://t.me/SlaSerX
